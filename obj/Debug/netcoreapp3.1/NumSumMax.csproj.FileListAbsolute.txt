@@ -1,0 +1,13 @@
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.exe
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.deps.json
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.runtimeconfig.json
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.dll
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\bin\Debug\netcoreapp3.1\NumSumMax.pdb
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.AssemblyInfo.cs
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.dll
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.pdb
+D:\Marco\Cursos\C#\NumSumMax\NumSumMax\obj\Debug\netcoreapp3.1\NumSumMax.genruntimeconfig.cache
